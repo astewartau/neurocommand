@@ -1272,14 +1272,6 @@
     },
     "qsmxt": {
         "apps": {
-            "qsmxt 2.1.0": {
-                "version": "20230509",
-                "exec": ""
-            },
-            "qsmxt 4.0.1": {
-                "version": "20230824",
-                "exec": ""
-            },
             "qsmxt 5.1.0": {
                 "version": "20230905",
                 "exec": ""
@@ -1292,8 +1284,8 @@
                 "version": "20240802",
                 "exec": ""
             },
-            "qsmxt 7.3.1": {
-                "version": "20250214",
+            "qsmxt 7.3.2": {
+                "version": "20250220",
                 "exec": ""
             }
         },
